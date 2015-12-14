@@ -1,6 +1,7 @@
- Let his authoer one editing first line. this is what. Editing new.
-
- Now i am adding more. Here again.
+I am author 1. I am editing this file.
 
 
-Added more.
+author 1 added new line.
+
+
+Author1 one modified something.
