@@ -1,7 +1,10 @@
-I am author 1. I am editing this file.
+I am author 2. I am editing this file. Author 2 editing this line.
 
 
-author 1 added new line.
 
 
-Author1 one modified something.
+Author1 one modified something. This feature looks good.
+
+
+
+Author 2 added new feature.
